@@ -26,7 +26,9 @@ Users first enter how many numbers (N) they want to add, generate the required i
 # Technologies Used
 
 HTML – Structure and layout
+<br>
 CSS – Styling and responsiveness
+<br>
 JavaScript – Logic, validation, and dynamic input generation
 
 # How to Run the Project
